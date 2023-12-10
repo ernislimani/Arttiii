@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="css/stylehome.css">
+	  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+       <link href="https://use.fontawesome.com/relases/v5.4.1/css/all.css" rel="stylesheet">
+   </head>
+<body>
+	<header>
+		<body style="background-image: url(img/bluee.jpg);">
+		<div class="container">
+			<div class="header-top">
+				<div class="logo"><a href="index.html"><img src="img/books.png" width="270" height="270" ></a>
+			
+		</div>
+		<nav>
+			<ul>
+				<a href="home.html" class="active">HOME</a>
+				<a href="About us.html" class="active" >ABOUT US</a>
+				<a href="classic book.html" class="active"><li>CLASSIC BOOKS</li></a>
+				<a href="books for kids.html" class="active"><li>KIDS</li></a>
+				<a href="books we love.html" class="active" ><li>BOOKS WE LOVE</li></a>
+			</ul>
+		</nav>
+        
+		
+	<div class="header-bottom">
+				
+				
+				<a href="log in.html"><button onclick="alert('You want to log in!')">LOG IN</button>
+
+				</a>
+
+
+
+
+	</div>
+		</div>
+	</header>
+	<main>
+		<div class="service-top">
+			<h1>OPEN LIBRARY</h1>
+			<hr>
+			<h2>Open library is created on 2011<br>here you can order books, try the virtual Library Explorer and keep track of your favorite books.</h2>
+
+		</div>
+		<div class="service-bottom">
+			
+			<h1>Organize</h1>
+			<h2>Organize your books using Lists or the Reading Log.</h2>
+			<i class="fas fa-columns"></i>
+		</div>
+		<h1>Try the virtual Library Explorer</h1>
+		<h2>The physical library is really organized.</h2>
+
+		<div class="service-up">
+			<h1>Be an open librarian</h1>
+			<h2>Dozens of way you can help improve the library.</h2>
+		
+
+        <h1>Send us feedback</h1>
+        <h2>Your feedback will help us improve these cards</h2>
+         </div>
+		
+
+				</div>	
+
+			</div>	
+	</main>
+</body>
+</html>
