@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>Projekti final</title>
+
+	
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	
+  <header>
+		<div class="container" class="col xl-3 col-md-6 col-sm-17"> 
+			<div class="header-top">
+				<div class="logo"><a href="index.html"><img src="img/books.png" width="270" height="270" ></a>
+			
+		</div>
+		<nav>
+			<ul>
+				<a href="home.html" class="active">HOME</a>
+				<a href="About us.html" class="active" >ABOUT US</a>
+				<a href="classic book.html" class="active"><li>CLASSIC BOOKS</li></a>
+				<a href="books for kids.html" class="active"><li>KIDS</li></a>
+				<a href="books we love.html" class="active" ><li>BOOKS WE LOVE</li></a>
+			</ul>
+		</nav>
+        
+		
+	<div class="header-bottom" class="col xl-3 col-md-6 col-sm-17">
+				
+				
+				<a href="log in.html"><button onclick="alert('You want to log in!')">LOG IN</button>
+
+				</a>
+
+
+
+
+	</div>
+		</div>
+	</header>
+	<main>
+
+		<div class="service-top" class="col xl-3 col-md-6 col-sm-17">
+			<h1>SERVICES WE PROVIDE</h1>
+			<hr>
+			<p>Welcome to open library!
+			Keep track of your favorite books</p>
+			<div class="row">
+				<div class="column">
+					<a href="they both die at the end.html"><img src="img/they both die at the end.jpg"></a>
+					<img src="img/we were liars.jpg">
+					<img src="img/five feet apart.jpg">
+					<img src="img/history is all you left me.jpg">
+					<img src="img/find me.jpg">
+
+    	</div></div>
+    <br><br>
+
+			</div>
+		</div>
+		<div class="row" class="col xl-3 col-md-6 col-sm-17">
+				<div class="column" >
+					
+					<img src="img/dorina.jpg">
+					<img src="img/new.jpg">
+					<img src="img/your name.jpg">
+					<img src="img/elite.jpg">
+					<img src="img/with us.jpg">
+
+    	</div></div>
+	</header>
+	<!---<nav>
+		<div class="nav-center"><h4>color fliper</h4>
+			<ul class="nav-links">
+				<li><a href="index.html">simple</a></li>
+				<li></li>
+			</ul></div>
+	</nav>
+	<div class="slider-container">
+		<div class="slide">
+			<img src="img/bluee.jpg" class="slide-img" alt=""><h1>1</h1>
+		</div>
+		<div class="slide"><h1>2</h1></div>
+	</div>
+	<div class="btn-container">
+		<button type="button" class="prevBtn">prev</button>
+		<button type="button" class="nextBtn">next</button>
+	</div>
+	--->
+		
+		 <script type="text/javascript" src="js/jQuery"></script>
+	    <script type="text/javascript" src="js/jquery-3.3.1"></script>
+	    <script type="text/javascript" src="js/jquery-3.6.0"></script>
+<script type="text/javascript" src="js/main.js"></script>	
+</body>
+</html>
+	
